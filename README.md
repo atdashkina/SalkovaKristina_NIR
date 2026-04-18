@@ -48,7 +48,7 @@
 
 ```text
 .
-├── generate_data.ipynb                    # генерация тестовых данных и служебных Excel-файлов
+├── generate_data.ipynb                     генерация тестовых данных и служебных Excel-файлов
 ├── preschool_ml_personalization.ipynb    # основной ML-анализ и генерация персональных планов
 ├── README.md
 ├── requirements.txt
